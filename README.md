@@ -1,2 +1,0 @@
-# CalculatorTest
-Created with CodeSandbox
